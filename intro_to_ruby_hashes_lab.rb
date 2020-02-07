@@ -32,7 +32,10 @@ def monopoly_with_third_tier
         four_railroads_owned: "$200"
 	    }
 	    :names => {
-	      
+	      Reading Railroad
+        Pennsylvania Railroad
+        B. & O. Railroad (did not serve Atlantic City)
+        Short Line (shortened form of Shore Fast Line)
 	    } 
 end
 
