@@ -32,10 +32,10 @@ def monopoly_with_third_tier
         four_pieces_owned: 200
 	    },
 	    :names => {
-	      reading_railroad: "Reading Railroad",
-        pennsylvania_railroad: "Pennsylvania Railroad",
-        b_and_o_railroad: "B.& O. Railroad",
-        short_line: "Short Line"
+	      reading_railroad: {},
+        pennsylvania_railroad: {},
+        b_and_o_railroad: {},
+        short_line: {}
 	    } 
 	  }
   }
