@@ -13,8 +13,8 @@ def monopoly_with_second_tier
   # complexity.
   	monopoly = {
 	  railroads: {
-	    pieces: 4
-	    
+	    pieces: 4,
+	    rent_in_dollars: 4
 	  }
 	}
 end
