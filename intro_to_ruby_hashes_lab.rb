@@ -26,7 +26,10 @@ def monopoly_with_third_tier
     	monopoly = {
 	  railroads: {
 	    rent_in_dollars: {
-	      rent: 1
+	      1 Railroad Owned: $25
+        2 Railroads Owned: $50
+        3 Railroads Owned: $100
+4 Railroads Owned: $200.
 	    },
 	    {
 	     	names: "Reading Railroad"
