@@ -30,7 +30,7 @@ def monopoly_with_third_tier
         two_railroads_owned: "$50",
         three_railroads_owned: "$100",
         four_railroads_owned: "$200"
-	    }
+	    },
 	    :names => {
 	      reading_railroad: "Reading Railroad",
         pennsylvania_railroad: "Pennsylvania Railroad",
