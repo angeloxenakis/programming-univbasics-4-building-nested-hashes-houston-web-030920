@@ -23,7 +23,7 @@ def monopoly_with_third_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
-    	monopoly = {
+  monopoly = {
 	  :railroads => {
 	    :rent_in_dollars => {
 	      one_railroad_owned: "$25",
@@ -32,11 +32,12 @@ def monopoly_with_third_tier
         four_railroads_owned: "$200"
 	    }
 	    :names => {
-	      Reading Railroad
-        Pennsylvania Railroad
-        B. & O. Railroad (did not serve Atlantic City)
-        Short Line (shortened form of Shore Fast Line)
+	      reading_railroad: "Reading Railroad",
+        pennsylvania_railroad: "Pennsylvania Railroad",
+        b_and_o_railroad: "B.& O. Railroad",
+        short_line: "Short Line"
 	    } 
+	  }
 end
 
 def monopoly_with_fourth_tier
