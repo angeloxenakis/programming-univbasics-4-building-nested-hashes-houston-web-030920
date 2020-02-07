@@ -38,6 +38,7 @@ def monopoly_with_third_tier
         short_line: "Short Line"
 	    } 
 	  }
+  }
 end
 
 def monopoly_with_fourth_tier
